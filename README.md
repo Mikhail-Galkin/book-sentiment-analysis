@@ -48,7 +48,7 @@
 
 ## Установка и запуск
 
-### Базовый запуск:
+### Development запуск
 ```bash
 git clone https://github.com/your-username/sentiment-analysis.git
 cd sentiment-analysis
