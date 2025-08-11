@@ -54,7 +54,7 @@ app.title = "Sentiment Book Viewer"
 
 # Разметка сайта
 app.layout = dbc.Container([
-    dbc.Row(dbc.Col(html.H1("Анализ настроения книги", className="text-center my-4 text-primary"))),
+    dbc.Row(dbc.Col(html.H1("Анализ динамики эмоциональной окраски книги", className="text-center my-4 text-primary"))),
 
     # Зона загрузки файла
     dbc.Row(dbc.Col(dcc.Upload(
