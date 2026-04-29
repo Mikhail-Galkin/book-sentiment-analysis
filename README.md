@@ -50,7 +50,7 @@
 
 ### Development запуск
 ```bash
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone https://github.com/Mikhail-Galkin/book-sentiment-analysis.git
 cd sentiment-analysis
 ```
 Подговка виртуального окружения
